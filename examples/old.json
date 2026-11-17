@@ -1,0 +1,15 @@
+{
+  "client": {
+    "dwEntityList": "0x1A2B3C0",
+    "dwViewMatrix": "0x1B4D120",
+    "dwLocalPlayerPawn": "0x188AF20",
+    "dwForceJump": "0x16B8420"
+  },
+  "offsets": {
+    "m_iHealth": "0x334",
+    "m_iTeamNum": "0x3CB",
+    "m_vecOrigin": "0x127C",
+    "m_ArmorValue": 4520
+  },
+  "engine": { "dwBuildNumber": "0x541BE4", "dwNetworkGameClient": "0x512AC0" }
+}
