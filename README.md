@@ -2,6 +2,8 @@
 
 A lightweight Windows utility for comparing offset dumps.
 
+![offsetdiff screenshot](screenshot.png)
+
 ## Features
 
 - Compare two nested JSON offset dumps by full key path
